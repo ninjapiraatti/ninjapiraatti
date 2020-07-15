@@ -1,4 +1,4 @@
-### A curious generalist doing good stuff for good people
+###A curious generalist doing good stuff for good people
 
 I'm probably coding, designing, building a business or tinkering as we speak. Maybe I can help you with
 
@@ -14,4 +14,3 @@ For a brief moment I'm a noob in
 
 ![forthebadge](https://img.shields.io/static/v1?logoColor=ffffff&logo=Go&label=%20&message=GoLang&labelColor=dddddd&color=aaaaaa&style=for-the-badge)
 ![forthebadge](https://img.shields.io/static/v1?logoColor=ffffff&logo=Arduino&label=%20&message=Arduino&labelColor=dddddd&color=aaaaaa&style=for-the-badge)
-
