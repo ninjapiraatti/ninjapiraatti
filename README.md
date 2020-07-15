@@ -1,4 +1,7 @@
-### Doing good stuff for good people
+### A curious generalist doing good stuff for good people
+
+I'm probably coding, designing, building a business or tinkering as we speak. Maybe I can help you with:
+
 
 <!--
 **ninjapiraatti/ninjapiraatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
