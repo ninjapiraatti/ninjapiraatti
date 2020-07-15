@@ -1,4 +1,4 @@
-###A curious generalist doing good stuff for good people
+### A curious generalist doing good stuff for good people
 
 I'm probably coding, designing, building a business or tinkering as we speak. Maybe I can help you with
 
