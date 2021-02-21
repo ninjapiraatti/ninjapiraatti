@@ -1,4 +1,4 @@
-### I'm looking for work as full stack developer or junior embedded developer.
+### I'm looking for work as junior embedded developer or full stack developer.
 
 I'm probably coding, designing, building a business or tinkering as we speak. Maybe I can help you with
 
