@@ -1,5 +1,3 @@
-### I'm looking for work as junior embedded developer or full stack developer.
-
 I'm probably coding, designing, building a business or tinkering as we speak. Maybe I can help you with
 
 ![forthebadge](https://img.shields.io/static/v1?logoColor=ffffff&logo=C&label=%20&message=C&labelColor=dddddd&color=aaaaaa&style=for-the-badge)
